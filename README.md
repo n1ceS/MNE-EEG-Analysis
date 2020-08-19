@@ -12,6 +12,8 @@ Projekt stworzony w ramach przedmiotu Medyczne Systemy Informatyczne. Aplikacja 
 
 ### ![mne icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-mne.png)   mne
 
+### ![Javascript icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-js.png)   javascript  
+
 
 # [WYKRESY]
 ### ![djsensors-positions-fixed](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/sensors-positions-fixed.png)
