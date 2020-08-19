@@ -4,7 +4,24 @@ Projekt stworzony w ramach przedmiotu Medyczne Systemy Informatyczne. Aplikacja 
 
 
 # [Technologia]
-### ![matplotlib icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-python.png)   python
-### ![matplotlib icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-django.png)   django
+### ![python icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-python.png)   python
+
+### ![django icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-django.png)   django
+
 ### ![matplotlib icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-matplotlib.png)   matplotlib
-### ![matplotlib icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-mne.png)   mne
+
+### ![mne icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-mne.png)   mne
+
+
+# [WYKRESY]
+### ![djsensors-positions-fixed](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/sensors-positions-fixed.png)
+
+### ![diagrams raw](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/diagrams-raw.png)  
+
+### ![diagrams-filtered-1](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/diagrams-filtered-1.png)  
+
+### ![diagrams-filtered-2](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/diagrams-filtered-2.png)  
+
+### ![frequency](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/frequency-2.png)   
+
+
