@@ -1,6 +1,7 @@
 # MNE-EEG-Analysis
 Projekt stworzony w ramach przedmiotu Medyczne Systemy Informatyczne. Aplikacja z pliku o formacie .raw tworzy wykresy(dostępne także w wersji live) ukazujące poszczególne wartości zczytywane z czujników umieszczonych na "czepku". Badania zostały zrealizowane przez jednego z studentów w pracowni Instytutu Informatyki UMCS.
 
+Przykładowy plik RAW:
 
 # [Technologia]
 ### ![python icon](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/icon-python.png)   python
@@ -15,7 +16,7 @@ Projekt stworzony w ramach przedmiotu Medyczne Systemy Informatyczne. Aplikacja 
 
 
 # [WYKRESY]
-### ![djsensors-positions-fixed](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/sensors-positions-fixed.png)
+### ![sensors-positions-fixed](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/sensors-positions-fixed.png)
 
 ### ![diagrams raw](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/diagrams-raw.png)  
 
