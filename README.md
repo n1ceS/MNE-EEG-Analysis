@@ -26,6 +26,6 @@ Przykładowy plik RAW: https://drive.google.com/file/d/1QNLNGsLerAgo3RHSzjPVZveu
 
 ### ![frequency](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/frequency-2.png)   
 
-### ![mainPage](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPage.png)  
+### ![mainPage](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPage.PNG)  
 
 
