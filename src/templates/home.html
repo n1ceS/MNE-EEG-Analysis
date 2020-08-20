@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Obrazy EEG</title>
+	<link rel="stylesheet" href="../media/css/style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container">
+		<form method="post"  onSubmit="return checkIfFileExist();" enctype="multipart/form-data">{% csrf_token %}
+			<div class="selectDiv">
+				<label for="files" class="uploader upl">Wybierz obraz
+				</label>
+				<input id="files" type="file" name="myfile" style="visibility:hidden" onchange="fileupload_validation(this.value);">
+			</div>
+			<div class="uploadDiv">
+				<button class="uploader butt" type="submit">Ruszajmy!</button>
+			</div>
+		</form>
+	</div>
+</body>
+</html>
+<script>
+function fileupload_validation(fileName){
+	var extension = "raw"
+	var file_extension = fileName.split('.').pop().toLowerCase();
+	if(extension == file_extension)
+	{
+		return true;
+	}else{
+		alert("Nieprawidłowy format pliku! Wymagany plik  z rozszerzeniem .raw");
+		return false;
+	}
+}
+function checkIfFileExist(){
+	if(document.getElementById("files").value == ""){
+		alert("Nie wybrano pliku!");
+		return false;
+	}else if(document.getElementById("files").value.split('.').pop().toLowerCase() !="raw"){
+		alert("Nieprawidłowy format pliku! Wymagany plik  z rozszerzeniem .raw");
+		return false;
+	}
+	document.body.classList.add("withGif");
+	return true;
+}
+</script>
+
