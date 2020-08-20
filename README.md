@@ -16,6 +16,8 @@ Przykładowy plik RAW: https://drive.google.com/file/d/1QNLNGsLerAgo3RHSzjPVZveu
 
 
 # [WYKRESY]
+### ![mainPage](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPage.PNG)  
+
 ### ![sensors-positions-fixed](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/sensors-positions-fixed.png)
 
 ### ![diagrams raw](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/diagrams-raw.png)  
@@ -26,6 +28,5 @@ Przykładowy plik RAW: https://drive.google.com/file/d/1QNLNGsLerAgo3RHSzjPVZveu
 
 ### ![frequency](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/frequency-2.png)   
 
-### ![mainPage](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPage.PNG)  
 
 
