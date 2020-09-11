@@ -17,6 +17,7 @@ Przykładowy plik RAW: https://drive.google.com/file/d/1QNLNGsLerAgo3RHSzjPVZveu
 
 # [WYKRESY]
 
+### ![mainPageGif2](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPageGif2.gif)  
 ### ![mainPage](https://github.com/n1ceS/MNE-EEG-Analysis/blob/master/img/mainPage.PNG)  
 <p align="center">
   
